@@ -1,0 +1,60 @@
+
+---a bible for NES
+https://www.nesdev.org
+
+https://www.nesdev.org/wiki/CPU_memory_map
+https://www.nesdev.org/wiki/PPU_memory_map
+https://www.nesdev.org/wiki/PPU_registers
+
+https://www.nesdev.org/wiki/PPU_rendering
+https://www.nesdev.org/wiki/PPU_sprite_evaluation
+
+
+
+---tutorials on how to write games
+https://nerdy-nights.nes.science/
+https://taywee.github.io/NerdyNights/
+
+
+---graphics
+https://austinmorlan.com/posts/nes_rendering_overview/
+
+
+---cpu
+https://www.middle-engine.com/blog/posts/2020/06/23/programming-the-nes-the-6502-in-detail
+
+
+---writing NES emulator
+https://yizhang82.dev/blog/nes
+
+
+---op codes
+http://www.6502.org/tutorials/6502opcodes.html
+
+
+---chatgpt always a good source of info
+
+
+---
+https://news.ycombinator.com/item?id=10771093
+http://www.dustmop.io/blog/2015/04/28/nes-graphics-part-1/
+
+
+---tools
+neslightbox
+fceux
+nesasm
+
+
+
+--- code
+https://github.com/camsaul/nesasm
+https://github.com/amhndu/SimpleNES
+https://github.com/OneLoneCoder/olcNES
+
+
+--- build and execute - get code (asm and other stuff) from e.g. nerdy nights, build
+using nesasm, then execute using SimpleNES
+
+
+
